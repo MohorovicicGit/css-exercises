@@ -1,0 +1,22 @@
+.odd {
+    background-color: rgb(231, 142, 157);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#tweede {
+    color:blue;
+    font-size: 36px;
+
+}
+
+#vierde {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+
+}
